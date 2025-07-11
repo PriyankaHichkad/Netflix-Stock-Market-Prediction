@@ -1,2 +1,5 @@
-# Netflix-Stock-Market-Prediction
-It is a stock market analysis and prediction of Netflix.
+---
+TITLE: Netflix-Stock-Market-Prediction
+AUTHOR: Priyanka Rajeev Hichkad
+---
+
